@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Proyecto.Libreria.Clases.Helpers
 {
-    class CategoriaHelper
+    public class CategoriaHelper
     {
+        private List<Categoria> _ListaCategoria;
+
+       
+
+
     }
 }
